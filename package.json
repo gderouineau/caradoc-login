@@ -1,7 +1,7 @@
 {
       "name": "caradoc-login",
       "description": "login service for caradoc framework",
-      "version": "0.0.3",
+      "version": "0.1.0",
       "author": {
         "name": "guillaume derouineau",
         "email": "admin@caradoc.fr"
